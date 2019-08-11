@@ -1,29 +1,12 @@
 # annotation-tool
+The web base annotating tool with vue.js.
+Now work in progress. 
 
-## Project setup
-```
-npm install
-```
+# Features
+- It can annotate images for yolov3 format.
+ 
+# now development
+Here is vision of annotation window.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## YOLOv3 annotation feature image
+![yolov3](assets/annotation-tool-yolo-image.png)
