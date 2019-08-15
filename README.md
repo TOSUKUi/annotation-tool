@@ -8,5 +8,8 @@ Now work in progress.
 # now development
 Here is vision of annotation window.
 
+# how to use
+npm run serve
+
 ## YOLOv3 annotation feature image
 ![yolov3](assets/annotation-tool-yolo-image.png)
